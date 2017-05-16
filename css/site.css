@@ -168,7 +168,6 @@ td {
  }
 
  .subscribe {
-     width: 35%;
      border: 5px solid #190800;
      background-color: #35769c;
      height: 310px;
@@ -186,7 +185,7 @@ td {
  }
 
 .pics {
-    width: 75%;
+    width: 65%;
     border: 5px solid #190800;
     background-color: #190800;
 }
