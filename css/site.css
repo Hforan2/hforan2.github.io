@@ -53,7 +53,7 @@ h2 {
 
 .fml {
     background-color:transparent;
-    width: 45%;
+    width: 30%;
     border: none;
 }
 #fml {
@@ -164,7 +164,7 @@ td {
  h7 {
      color: #190800;
      font-family: brush script mt;
-     font-size: 45px;
+     font-size: 30px;
  }
 
  .subscribe {
@@ -191,7 +191,6 @@ td {
 }
 
 #gif {
-    margin-left: 105px;
     margin-bottom: 5px;
 }
 
