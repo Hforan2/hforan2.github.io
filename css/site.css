@@ -52,7 +52,9 @@ h2 {
 }
 
 .fml {
-    background-color:none;
+    background-color:transparent;
+    width: 35%;
+    border: none;
 }
 th {
     background-color: #ba5209;
