@@ -53,7 +53,7 @@ h2 {
 
 .fml {
     background-color:transparent;
-    width: 35%;
+    width: 45%;
     border: none;
 }
 #fml {
@@ -164,13 +164,13 @@ td {
  h7 {
      color: #190800;
      font-family: brush script mt;
-     font-size: 25px;
+     font-size: 45px;
  }
 
  .subscribe {
      border: 5px solid #190800;
      background-color: #35769c;
-     height: 310px;
+     height: 260px;
  }
 
  label{
