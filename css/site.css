@@ -176,13 +176,13 @@ td {
  }
 
 .pics {
-    width: 85%;
+    width: 75%;
     border: 5px solid #190800;
     background-color: #190800;
 }
 
 #gif {
-    margin-left: 110px;
+    margin-left: 105px;
     width: 24.5%;
     margin-bottom: 5px;
 }
