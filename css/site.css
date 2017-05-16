@@ -50,6 +50,10 @@ h2 {
     margin: 0;
     font-family: brush script mt;
 }
+
+.fml {
+    background-color:none;
+}
 th {
     background-color: #ba5209;
     color: #190800;
